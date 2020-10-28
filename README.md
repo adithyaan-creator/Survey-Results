@@ -11,5 +11,3 @@ The steps taken are to convert the response variables to numerical values, which
 to corresponding value of response.
   After encoding, the dimensionality[Number of features] increases, making visualization and understanding data difficult. To mitigate this, the principal 
 components[2 components] has been found and visualized. The visualizations has been done for Agreeableness, Extrovertion and conscientiousness.
-
-![Screenshot] (agreeablenessViz.jpg)
