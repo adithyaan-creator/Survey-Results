@@ -12,4 +12,4 @@ to corresponding value of response.
   After encoding, the dimensionality[Number of features] increases, making visualization and understanding data difficult. To mitigate this, the principal 
 components[2 components] has been found and visualized. The visualizations has been done for Agreeableness, Extrovertion and conscientiousness.
 
-![alt text](https://github.com/ adithyaan-creator /Survey-Results /blob/master/agreeablenessViz.jpg?raw=true)
+![alt text](https://github.com/adithyaan-creator/Survey-Results/blob/master/agreeablenessViz.jpg)
