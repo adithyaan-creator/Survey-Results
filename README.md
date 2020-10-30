@@ -1,6 +1,6 @@
 # Survey-Results
 
-The analysis done is for a group of 10 people based on their responses to Big5 personality questionnaire.
+The analysis done is for a group of 10 people based on their responses to IPIP Big5 personality questionnaire.
 
 The data being categorical/non numerical with upto maximum of 5 responses, coming up with predictng a rating might not be feasible. So what has been done is a 
 similarity study of how similar are the people based on their responses. The results are quite good considering 10 data points, and we can improve results with 
@@ -11,3 +11,7 @@ The steps taken are to convert the response variables to numerical values, which
 to corresponding value of response.
   After encoding, the dimensionality[Number of features] increases, making visualization and understanding data difficult. To mitigate this, the principal 
 components[2 components] has been found and visualized. The visualizations has been done for Agreeableness, Extrovertion and conscientiousness.
+
+Attaching the link to the scoring system for IPIP scoring system - https://openpsychometrics.org/printable/big-five-personality-test.pdf
+
+
